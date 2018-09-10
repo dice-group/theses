@@ -1,3 +1,7 @@
+---
+title: Theses at the DICE group
+---
+
 # Theses at the DICE group
 
 ## General information about theses in UPB computer science

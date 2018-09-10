@@ -31,7 +31,7 @@ The work plan has to contain the following elements:
 3. explicit formulation of the target setting,
 4. description of the tasks that have to be carried out in order to reach the goal,
 5. including a related schedule as well as
-6. a setting up of a provisional structure of a written elaboaration.
+6. a setting up of a provisional structure of a written elaboration.
 
 Source: [Examination Regulations for the master’s degree course Computer Science of the Faculty for Electrical
 Engineering, Computer Engineering and Mathematics at the University of Paderborn, Edition 44.17 of June 16th 2017](https://cs.uni-paderborn.de/fileadmin/informatik/Studium/Formalitaeten/Ordnungen/PO_Informatik_Englisch.pdf#page=14)
@@ -48,7 +48,7 @@ A template, which as to be adapted, is given by the following list:
 - State-of-the-art review
 - Proposal of your solution
 - Implementation, tests, and benchmarks
-- If you chose an iterative approach: Analyse results and go to previous step
+- If you chose an iterative approach: Analyze results and go to previous step
 - Thesis writing (typically runs in parallel with all other tasks)
 
 

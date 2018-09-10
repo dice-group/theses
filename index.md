@@ -12,7 +12,7 @@ The department of computer science (CS) of the Paderborn University (UPB) provid
 - [CS Academic Rules and Regulations](https://cs.uni-paderborn.de/en/studies/formalities/academic-rules-and-regulations/)
 - [CS FAQ: Frequently asked questions regarding the computer science program](https://cs.uni-paderborn.de/en/studies/advice-and-support/faq/)
 
-Please read the provided information carefully and make youself familar with the regulations.
+Please read the provided information carefully and make yourself familiar with the regulations.
 
 
 
@@ -41,7 +41,7 @@ You can reuse major parts of the work plan in your thesis.
 ##### On item 5: Schedule/timetable
 
 The schedule has to contain major milestones.
-It is recommend to provide a gantt chart.
+It is recommended to provide a gantt chart.
 Please consider to schedule buffer times.
 A template, which as to be adapted, is given by the following list:
 

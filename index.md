@@ -1,8 +1,8 @@
----
-title: Theses at the DICE group
----
+# Theses at the data science (DICE) group
 
-# Theses at the DICE group
+Bachelor's or master's theses at the DICE group typically build on content of our courses or project groups.
+We provide a [list of open theses](http://dice.cs.uni-paderborn.de/teaching/thesis/) on our teaching website.
+In the list, there is a contact person for every thesis.
 
 ## General information about theses in UPB computer science
 

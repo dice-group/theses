@@ -1,13 +1,19 @@
-# Theses at the data science (DICE) group
+# Theses at the DICE group
 
-Bachelor's or master's theses at the DICE group typically build on content of our courses or project groups.
+Bachelor's or master's theses at the data science (DICE) group typically build on content of our courses or project groups.
 We provide a [list of open theses](http://dice.cs.uni-paderborn.de/teaching/thesis/) on our teaching website.
 In the list, there is a contact person for every thesis.
 
+
 ## General information about theses in UPB computer science
+
+The department of computer science (CS) of the Paderborn University (UPB) provides a list of official rules and regulations as well as a FAQ:
 
 - [CS Academic Rules and Regulations](https://cs.uni-paderborn.de/en/studies/formalities/academic-rules-and-regulations/)
 - [CS FAQ: Frequently asked questions regarding the computer science program](https://cs.uni-paderborn.de/en/studies/advice-and-support/faq/)
+
+Please read the provided information carefully and make youself familar with the regulations.
+
 
 ## Work plan
 
@@ -31,6 +37,13 @@ Engineering, Computer Engineering and Mathematics at the University of Paderborn
 - Implementation
 - Evaluation
 - Summary and Discussion
+
+## Template
+
+We recommend to use LaTeX for writing your thesis.
+There are various existing templates, e.g. the 
+[winner of the 2017 thesis template contest](https://uni-paderborn.sciebo.de/s/aUztdnwY9xgE2WM).
+(Source: [Computer Science Intranet](https://wiki.cs.uni-paderborn.de/CSIPB/WebHome))
 
 ## Contact
 

@@ -3,6 +3,7 @@
 Bachelor's or master's theses at the data science (DICE) group typically build on content of our courses or project groups.
 We provide a [list of open theses](http://dice.cs.uni-paderborn.de/teaching/thesis/) on our teaching website.
 In the list, there is a contact person for every thesis.
+The language of your thesis will be English.
 You have to contact the respective supervisor by email to make a first appointment.
 
 #### General information about theses in UPB CS

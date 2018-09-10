@@ -3,9 +3,9 @@
 Bachelor's or master's theses at the data science (DICE) group typically build on content of our courses or project groups.
 We provide a [list of open theses](http://dice.cs.uni-paderborn.de/teaching/thesis/) on our teaching website.
 In the list, there is a contact person for every thesis.
+You have to contact the respective supervisor by email to make a first appointment.
 
-
-## General information about theses in UPB CS
+#### General information about theses in UPB CS
 
 The department of computer science (CS) of the Paderborn University (UPB) provides a list of official rules and regulations as well as a FAQ:
 
@@ -15,7 +15,14 @@ The department of computer science (CS) of the Paderborn University (UPB) provid
 Please read the provided information carefully and make youself familar with the regulations.
 
 
-## Work plan
+
+# Starting your thesis
+
+In the regulations mentioned above, it is specified to prepare a work plan.
+This will be worked out in consultation with your supervisor.
+When you finished your work plan (approximately 4 weeks), you can present it to the professor.
+
+#### Work plan
 
 The work plan has to contain the following elements:
 
@@ -29,7 +36,23 @@ The work plan has to contain the following elements:
 Source: [Examination Regulations for the master’s degree course Computer Science of the Faculty for Electrical
 Engineering, Computer Engineering and Mathematics at the University of Paderborn, Edition 44.17 of June 16th 2017](https://cs.uni-paderborn.de/fileadmin/informatik/Studium/Formalitaeten/Ordnungen/PO_Informatik_Englisch.pdf#page=14)
 
-#### Classical structure of a thesis
+You can reuse major parts of the work plan in your thesis.
+
+##### On item 5: Schedule/timetable
+
+The schedule has to contain major milestones.
+It is recommend to provide a gantt chart.
+Please consider to schedule buffer times.
+A template, which as to be adapted, is given by the following list:
+
+- State-of-the-art review
+- Proposal of your solution
+- Implementation, tests, and benchmarks
+- If you chose an iterative approach: Analyse results and go to previous step
+- Thesis writing (typically runs in parallel with all other tasks)
+
+
+##### On item 6: Classical structure of a thesis
 
 A thesis should be structured similar to the following list:
 
@@ -44,8 +67,8 @@ A thesis should be structured similar to the following list:
 
 We recommend to use LaTeX for writing your thesis.
 There are various existing templates, e.g. the 
-[winner of the 2017 thesis template contest](https://uni-paderborn.sciebo.de/s/aUztdnwY9xgE2WM).
-(Source: [Computer Science Intranet](https://wiki.cs.uni-paderborn.de/CSIPB/WebHome))
+[winner of the 2017 thesis template contest](https://uni-paderborn.sciebo.de/s/aUztdnwY9xgE2WM)
+(Source: [Computer Science Intranet](https://wiki.cs.uni-paderborn.de/CSIPB/WebHome)).
 
 ## Contact
 

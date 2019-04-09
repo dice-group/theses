@@ -41,7 +41,7 @@ As a result of this meeting, the student should create a summary of the meeting 
 
 ### 4. Registering the thesis
 
-The registration of the thesis is the task of the student. The DICE group is not directly involved in it. However, the summary of the meeting described above should be used as a basis for the work plan.
+The registration of the thesis is the task of the student. Based on the summary of the meeting described above the student should create a work plan for the thesis and give it to the supervisor. After that, the student will receive a letter stating that the thesis work plan has been approved. With this letter, the student can register the thesis at the examination office. Please note that apart from the letter, the DICE group is not directly involved in the thesis registration.
 
 During the registration, the reviewers of the thesis have to be defined. Since the thesis is supervised by our group, the 1st reviewer is the professor of the DICE group.
 

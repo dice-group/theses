@@ -1,7 +1,7 @@
 # Theses at the DICE group
 
 Bachelor's or master's theses at the data science (DICE) group typically build on content of our courses or project groups.
-We provide a [list of open theses topics](http://dice.cs.uni-paderborn.de/teaching/thesis/) on our teaching website.
+We provide a [list of open theses topics](https://dice-research.org/theses/) on our teaching website.
 In the list, there is a contact person for every topic.
 You have to contact the respective supervisor by email to make a first appointment.
 The language of your bachelor's thesis can be either German or English. For a master's thesis, the language should be English.
@@ -107,4 +107,4 @@ After submitting your thesis, the two reviewers will check your thesis. After th
 
 ## Contact
 
-Find your supervisors contact information at the [DICE team](http://dice.cs.uni-paderborn.de/team/).
+Find your supervisors contact information at the [DICE team](https://dice-research.org/team/).

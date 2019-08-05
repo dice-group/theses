@@ -45,6 +45,8 @@ The registration of the thesis is the task of the student. Based on the summary 
 
 During the registration, the reviewers of the thesis have to be defined. Since the thesis is supervised by our group, the 1st reviewer is the professor of the DICE group.
 
+Based on the registartion date, the examination office will provide the deadline for the thesis submission. Please note that the thesis should not be submitted after the deadline and not before 80% of the thesis time have passed (7 weeks for a Bachelor thesis, 4 months for a Master thesis (full time student)).
+
 #### Work plan
 
 In the regulations mentioned above, it is specified that for registering a thesis the student has to prepare a work plan.

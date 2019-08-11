@@ -105,7 +105,16 @@ There are various existing templates, e.g. the
 
 ### 7. Thesis defence
 
-After submitting your thesis, the two reviewers will check your thesis. After that, there will be an appointment at which you have to defend your work with a presentation which is followed by a question and answer round. At the end of the defence, the reviewers typically discuss the grade of the student for the presentation and for the thesis document.
+After submitting your thesis, the two reviewers will check your thesis. After that, there will be an appointment at which you have to defend your work with a presentation which is followed by a question and answer round. Your performance during this appointment will be taken into account for the grading.
+
+### Grading
+
+The thesis will be graded by two reviewers. Reviewers from the DICE group typically take diverse criteria into account to compute the final grade of a thesis. These criteria include (but are not limited to): 
+* Quality of the solution
+* Technical content
+* Code quality
+* Writing
+* Thesis defense
 
 ## Contact
 

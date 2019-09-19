@@ -49,8 +49,7 @@ Based on the registartion date, the examination office will provide the deadline
 
 #### Work plan
 
-In the regulations mentioned above, it is specified that for registering a thesis the student has to prepare a work plan.
-The work plan has to contain the following elements:
+In the regulations mentioned above, it is specified that for registering a thesis the student has to prepare a work plan and submit it the the supervisor. The work plan has to contain the following elements:
 
 1. description of the task which has to be worked on,
 2. motivation of the thesis,
@@ -63,6 +62,8 @@ Source: [Examination Regulations for the master’s degree course Computer Scien
 Engineering, Computer Engineering and Mathematics at the University of Paderborn, Edition 44.17 of June 16th 2017](https://cs.uni-paderborn.de/fileadmin/informatik/Studium/Formalitaeten/Ordnungen/PO_Informatik_Englisch.pdf#page=14)
 
 (You can reuse major parts of the work plan in your thesis.)
+
+After the registration, the work plan should be sent to the second examiner.
 
 ##### On item 5: Schedule/timetable
 

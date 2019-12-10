@@ -1,7 +1,7 @@
 # Theses at the DICE group
 
 Bachelor's or master's theses at the data science (DICE) group typically build on content of our courses or project groups.
-We provide a [list of open theses topics](https://dice-research.org/theses/) on our teaching website.
+We provide a [list of open theses topics](https://dice-research.org/students/theses/) on our teaching website.
 In the list, there is a contact person for every topic.
 You have to contact the respective supervisor by email to make a first appointment.
 The language of your bachelor's thesis can be either German or English. For a master's thesis, the language should be English.

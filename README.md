@@ -1,5 +1,8 @@
 # Theses at the DICE group
 
+**The information in this repository is outdated.**
+Please find our up-to-date information on [our webpage](https://dice-research.org/students/teaching/).
+
 Bachelor's or master's theses at the data science (DICE) group typically build on content of our courses or project groups.
 We provide a [list of open theses topics](https://dice-research.org/students/theses/) on our teaching website.
 In the list, there is a contact person for every topic.
